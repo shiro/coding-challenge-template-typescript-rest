@@ -39,6 +39,12 @@ To run locally, run the following in order:
 - `yarn`
 - `yarn dev`
 
+To run tests, run the following in order:
+
+- `yarn`
+- `yarn test`
+
+
 ## Assumptions
 
 The app matches the given requirements, the following points are assumed since
